@@ -23,6 +23,6 @@ def main():
     print(sol.smallerNumbersThanCurrent(nums))
     sol = Solution()
     print(sol.smallerNumbersThanCurrent(nums))
-    
+
 if __name__ == '__main__':
     main()
